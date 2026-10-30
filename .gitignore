@@ -1,0 +1,27 @@
+# Environment secrets
+.env
+**/.env
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Python virtual environments
+venv/
+**/venv/
+.venv/
+**/.venv/
+
+# Expo cache
+.expo/
+**/.expo/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+Movie-backend/uploads/
